@@ -25,8 +25,7 @@ This repository documents my complete journey of learning Python — from basics
 ## 📅 Progress Tracker
 
 ✔️ Day 1 - Variables
-⬜ Day 2 - Data Types
-⬜ Day 3 - If-Else
+
 
 ---
 
