@@ -1,32 +1,43 @@
-# Python-Learning-Journey
-# 👋 Hey, I'm Usha
+# 🚀 Python Learning Journey
 
-🎓 CS Engineering Student
-💻 Aspiring Software Engineer
-🚀 Currently learning Python from scratch
+This repository documents my complete journey of learning Python — from basics to building real-world projects.
 
 ---
 
-## 🧠 What I'm Doing Right Now
+## 🎯 What makes this unique?
 
-* 📘 Learning Python step by step
-* 🛠 Building mini projects daily
-* 📊 Documenting my journey publicly
-
----
-
-## 🔥 Featured Project
-
-👉 Python Learning Journey (ongoing)
+* ✅ Daily progress tracking
+* ✅ Beginner-friendly explanations
+* ✅ Real-life mini projects
+* ✅ Mistake tracking (learning from errors)
 
 ---
 
-## 📈 My Goal
+## 📂 Structure
 
-To become a strong problem solver and build real-world applications
+01_Basics → Fundamentals
+02_Control_Flow → Logic building
+03_Data_Structures → Core concepts
+05_Projects → Real-world projects
 
 ---
 
+## 📅 Progress Tracker
 
+✔️ Day 1 - Variables
+⬜ Day 2 - Data Types
+⬜ Day 3 - If-Else
 
-I believe consistency beats talent 🚀
+---
+
+## 💡 Projects Coming Soon
+
+* Expense Tracker
+* Quiz App
+* File Organizer
+
+---
+
+## 🧠 Note
+
+This is not just a notes repository — it's a record of how I learn, build, and improve every day.
